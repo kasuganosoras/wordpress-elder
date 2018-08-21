@@ -1,5 +1,8 @@
-# wordpress-elder
-<p>WordPress 暴力膜插件</p>
+<center>
+  <img style="border-radius: 50%;text-align: center;" src="https://i.loli.net/2018/08/21/5b7ba913b791a.jpg" />
+  <h3>WordPress 暴力膜插件</h3>
+  <p>这不是一个普通的插件，它象征着一代人的膜蛤精神，以及大家对长者的热情，它会在前台或者后台每个页面显示一句来自“怒斥香港记者”的长者经典语录，不但能够让访客变得Excited，还能让你的博客变得更快。</p>
+</center>
 <p>使用方法：丢进 plugins 文件夹即可。</p>
 <hr>
 <p>推荐语录</p>
@@ -39,4 +42,4 @@
 到那个时候我们会表态的。明白这意思吗？
 你们呀，不要想喜欢弄大新闻，说现在已经钦定了，就把我批判一番，你们呐，NAIVE！
 I AM ANGRY！你们这样是不行的！</pre>
-请注意：WP Super Cache 插件可能会影响前台正常随机显示语录，建议关闭首页缓存功能。
+<p>请注意：WP Super Cache 插件可能会影响前台正常随机显示语录，建议关闭首页缓存功能。</p>
