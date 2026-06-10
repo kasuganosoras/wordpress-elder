@@ -1,0 +1,9 @@
+#haha {
+	position: absolute;
+	top: 16px;
+	inset-inline-end: 16px;
+	margin: 0;
+	max-width: min(40vw, 480px);
+	line-height: 1.4;
+	z-index: 1;
+}

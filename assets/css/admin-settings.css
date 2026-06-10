@@ -1,0 +1,57 @@
+.hello-haha-settings-layout {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
+	gap: 24px;
+	align-items: start;
+	margin-top: 20px;
+}
+
+.hello-haha-settings-main {
+	min-width: 0;
+}
+
+.hello-haha-settings-form .form-table {
+	margin-top: 0;
+}
+
+.hello-haha-settings-sidebar {
+	min-width: 0;
+}
+
+.hello-haha-sidebar-card .title {
+	margin-top: 0;
+}
+
+.hello-haha-sidebar-about p:last-child {
+	margin-bottom: 0;
+}
+
+.hello-haha-sidebar-divider {
+	margin: 20px 0;
+	border: 0;
+	border-top: 1px solid #dcdcde;
+}
+
+.hello-haha-sidebar-meta {
+	text-align: center;
+}
+
+.hello-haha-sidebar-meta p:last-child {
+	margin-bottom: 0;
+}
+
+.hello-haha-profile-image {
+	margin-top: 0;
+}
+
+.hello-haha-profile-image img {
+	border-radius: 50%;
+	display: inline-block;
+}
+
+@media screen and (max-width: 960px) {
+	.hello-haha-settings-layout {
+		grid-template-columns: 1fr;
+		max-width: none;
+	}
+}
